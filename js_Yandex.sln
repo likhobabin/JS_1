@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "js_yaFooBar", "js_yaFooBar\js_yaFooBar.vcxproj", "{8EBFA6C1-5B16-46CC-A070-DEC4F6FC776A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "js_yaWStringConvert", "js_yaWStringConvert\js_yaWStringConvert.vcxproj", "{1B492F04-F53D-4E63-A598-EBCF1CB8AB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EBFA6C1-5B16-46CC-A070-DEC4F6FC776A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8EBFA6C1-5B16-46CC-A070-DEC4F6FC776A}.Debug|Win32.Build.0 = Debug|Win32
+		{8EBFA6C1-5B16-46CC-A070-DEC4F6FC776A}.Release|Win32.ActiveCfg = Release|Win32
+		{8EBFA6C1-5B16-46CC-A070-DEC4F6FC776A}.Release|Win32.Build.0 = Release|Win32
+		{1B492F04-F53D-4E63-A598-EBCF1CB8AB90}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B492F04-F53D-4E63-A598-EBCF1CB8AB90}.Debug|Win32.Build.0 = Debug|Win32
+		{1B492F04-F53D-4E63-A598-EBCF1CB8AB90}.Release|Win32.ActiveCfg = Release|Win32
+		{1B492F04-F53D-4E63-A598-EBCF1CB8AB90}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
